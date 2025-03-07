@@ -5,8 +5,6 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-%23F7DF1E?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![MIT License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 
-![SHEILDEYE Demo](https://via.placeholder.com/800x400.png?text=SHEILDEYE+Demo+GIF+Here)  
-*(Replace with an actual screenshot or GIF of the extension in action)*  
 
 ---
 ## 🚀 Features  
